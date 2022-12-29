@@ -1,11 +1,37 @@
 header {
-    background-color:beige
+    text-align:center;
+    background-color:rgb(237, 237, 237);
+    margin-right: 100px;
+    margin-left: 100px;
+    color: mediumslateblue;
+      
     
 }
 
 div.info {
-    background-color: lavender;
-    color: mediumslateblue;
+    
     text-align: center;
+    border: 5px solid rgb(237, 237, 237);
     border-radius: 25px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+h2 {
+    background-color:rgb(237, 237, 237);
+    color: mediumslateblue;
+    
+}
+
+h3 {
+    background-color:rgb(237, 237, 237);
+    color: mediumslateblue;
+    
+}
+
+img {
+    width:500px;
+    border: 5px solid rgb(229, 229, 229)    ;
+    border-radius: 25px ;
+    
 }
